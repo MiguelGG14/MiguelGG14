@@ -42,3 +42,98 @@ I work at the intersection of:
 
 ```txt
 Simulation × Systems Engineering × Operational Analysis × AI
+
+⚡ Engineering Experience
+🚗 Ford Motor Company — EDS Core Design & Release Engineer
+Simulation-driven validation for global vehicle platforms
+Virtual validation & CAE-oriented engineering workflows
+Harness routing & electrical architecture analysis
+Lean Six Sigma process optimization
+Engineering governance & workflow standardization
+Cross-functional collaboration across global engineering teams
+Key Impact
+Reduced simulation execution times by ~50%
+Improved engineering validation consistency
+Supported ICE, Hybrid & EV architectures
+Worked across NA, EU, Asia & South America programs
+🧪 Electromobility Laboratory — UNAM
+Battery SoH / SoC monitoring
+Lithium-ion battery systems
+Analog charger architecture development
+Sustainable mobility engineering
+PumaBus electric transportation development
+🚀 Featured Projects
+🔹 Traffic Flow Simulation & ALINEA Control
+Cell Transmission Models (CTM)
+Traffic optimization & ramp metering
+MATLAB-based dynamic simulations
+Operational analysis & systems modeling
+
+🔗 Repository:
+CTM & ALINEA Simulation
+
+🌍 International Experience
+🇩🇪 Universität Stuttgart
+Battery thermal/electrical/aging simulations
+MATLAB-based energy systems modeling
+Technology entrepreneurship & patents
+Sustainable mobility systems
+🚘 Arena2036 × Mercedes-Benz
+Design Thinking Workshop
+Future mobility innovation concepts
+Sustainability-oriented engineering
+Multicultural engineering collaboration
+🛠 Technical Stack
+<div align="center">
+Simulation & Modeling
+
+
+
+
+
+
+
+
+Programming & Analytics
+
+
+
+
+
+
+
+
+
+
+Engineering Platforms
+
+
+
+
+
+
+Systems & Engineering
+
+
+
+
+
+
+
+
+</div>
+🧠 Engineering Mindset
+while engineering_problem:
+    model_system()
+    simulate_behavior()
+    optimize_constraints()
+    validate_results()
+    improve_scalability()
+🏆 Recognition
+🎓 Erasmus Mundus Scholarship
+🏅 Ford Six Sigma Green Belt
+🌍 International Engineering Experience across Europe
+🚘 Ford Innovation Programs & Catalyst Cycle Organizer
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=MiguelGG14&theme=dark&hide_border=true"> </p>
+<pre> Engineering intelligent systems through simulation, analytics and systems thinking. </pre>
