@@ -42,7 +42,7 @@ I work at the intersection of:
 
 ```txt
 Simulation × Systems Engineering × Operational Analysis × AI
-
+```
 ⚡ Engineering Experience
 🚗 Ford Motor Company — EDS Core Design & Release Engineer
 Simulation-driven validation for global vehicle platforms
@@ -56,7 +56,7 @@ Reduced simulation execution times by ~50%
 Improved engineering validation consistency
 Supported ICE, Hybrid & EV architectures
 Worked across NA, EU, Asia & South America programs
-🧪 Electromobility Laboratory — UNAM
+🔋 Electromobility Laboratory — UNAM
 Battery SoH / SoC monitoring
 Lithium-ion battery systems
 Analog charger architecture development
@@ -137,3 +137,4 @@ while engineering_problem:
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=MiguelGG14&theme=dark&hide_border=true"> </p>
 <pre> Engineering intelligent systems through simulation, analytics and systems thinking. </pre>
+
