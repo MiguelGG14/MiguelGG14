@@ -43,50 +43,124 @@ I work at the intersection of:
 ```txt
 Simulation × Systems Engineering × Operational Analysis × AI
 ```
-⚡ Engineering Experience
-🚗 Ford Motor Company — EDS Core Design & Release Engineer
-Simulation-driven validation for global vehicle platforms
-Virtual validation & CAE-oriented engineering workflows
-Harness routing & electrical architecture analysis
-Lean Six Sigma process optimization
-Engineering governance & workflow standardization
-Cross-functional collaboration across global engineering teams
-Key Impact
-Reduced simulation execution times by ~50%
-Improved engineering validation consistency
-Supported ICE, Hybrid & EV architectures
-Worked across NA, EU, Asia & South America programs
-🔋 Electromobility Laboratory — UNAM
-Battery SoH / SoC monitoring
-Lithium-ion battery systems
-Analog charger architecture development
-Sustainable mobility engineering
-PumaBus electric transportation development
-🚀 Featured Projects
-🔹 Traffic Flow Simulation & ALINEA Control
-Cell Transmission Models (CTM)
-Traffic optimization & ramp metering
-MATLAB-based dynamic simulations
-Operational analysis & systems modeling
 
-🔗 Repository:
-CTM & ALINEA Simulation
+# ⚡ Engineering Experience
 
-🌍 International Experience
-🇩🇪 Universität Stuttgart
-Battery thermal/electrical/aging simulations
-MATLAB-based energy systems modeling
-Technology entrepreneurship & patents
-Sustainable mobility systems
-🚘 Arena2036 × Mercedes-Benz
-Design Thinking Workshop
-Future mobility innovation concepts
-Sustainability-oriented engineering
-Multicultural engineering collaboration
-🛠 Technical Stack
+## 🚗 Ford Motor Company — EDS Core Design & Release Engineer
+
+- Simulation-driven validation for global vehicle platforms
+- Virtual validation & CAE-oriented engineering workflows
+- Harness routing & electrical architecture analysis
+- Lean Six Sigma process optimization
+- Engineering governance & workflow standardization
+- Cross-functional collaboration across global engineering teams
+
+### Key Impact
+
+- Reduced simulation execution times by ~50%
+- Improved engineering validation consistency
+- Supported ICE, Hybrid & EV architectures
+- Worked across NA, EU, Asia & South America programs
+
+---
+
+## 🔋 Electromobility Laboratory — UNAM
+
+- Battery SoH / SoC monitoring
+- Lithium-ion battery systems
+- Analog charger architecture development
+- Sustainable mobility engineering
+- PumaBus electric transportation development
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Traffic Flow Simulation & ALINEA Control
+
+- Cell Transmission Models (CTM)
+- Traffic optimization & ramp metering
+- MATLAB-based dynamic simulations
+- Operational analysis & systems modeling
+
+🔗 Repository:  
+[CTM & ALINEA Simulation](https://github.com/MiguelGG14)
+
+---
+
+# 🌍 International Experience
+
+## 🇩🇪 Universität Stuttgart
+
+- Battery thermal/electrical/aging simulations
+- MATLAB-based energy systems modeling
+- Technology entrepreneurship & patents
+- Sustainable mobility systems
+
+## 🚘 Arena2036 × Mercedes-Benz
+
+- Design Thinking Workshop
+- Future mobility innovation concepts
+- Sustainability-oriented engineering
+- Multicultural engineering collaboration
+
+---
+
+# 🛠 Technical Stack
+
 <div align="center">
-Simulation & Modeling
 
+### Simulation & Modeling
+
+![MATLAB](https://img.shields.io/badge/MATLAB-000?style=flat)
+![Simulink](https://img.shields.io/badge/Simulink-000?style=flat)
+![LS-DYNA](https://img.shields.io/badge/LS--DYNA-000?style=flat)
+![CAE](https://img.shields.io/badge/CAE-000?style=flat)
+
+### Programming & Analytics
+
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
+![C#](https://img.shields.io/badge/C%23-000?style=flat)
+![VBA](https://img.shields.io/badge/VBA-000?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=flat&logo=numpy)
+
+### Engineering Platforms
+
+![Teamcenter](https://img.shields.io/badge/Teamcenter-000?style=flat)
+![CATIA](https://img.shields.io/badge/CATIA-000?style=flat)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-000?style=flat)
+
+### Systems & Engineering
+
+![Control Systems](https://img.shields.io/badge/Control_Systems-000?style=flat)
+![Operational Analysis](https://img.shields.io/badge/Operational_Analysis-000?style=flat)
+![Simulation](https://img.shields.io/badge/Simulation-000?style=flat)
+![AI](https://img.shields.io/badge/AI-000?style=flat)
+
+</div>
+
+---
+
+# 🧠 Engineering Mindset
+
+```python
+while engineering_problem:
+    model_system()
+    simulate_behavior()
+    optimize_constraints()
+    validate_results()
+    improve_scalability()
+```
+
+---
+
+# 🏆 Recognition
+
+- 🎓 Erasmus Mundus Scholarship
+- 🏅 Ford Six Sigma Green Belt
+- 🌍 International Engineering Experience across Europe
+- 🚘 Ford Innovation Programs & Catalyst Cycle Organizer
 
 
 
